@@ -1,21 +1,12 @@
-Create index.md
-# Privacy Policy for CHROMABURST
+CHROMABURST
+CHROMABURST is a browser extension game that challenges your reflexes and timing. Experience fast-paced gameplay directly within your web browser.
 
-**Last updated: May 31, 2026**
+How to Play
+(Tu peux ajouter ici une courte explication sur comment jouer au jeu, par exemple : "Use your mouse to click..." ou "Press spacebar to...")
 
-This privacy policy governs your use of the browser extension "CHROMABURST".
+Features
+Local Gameplay: Enjoy a seamless experience entirely within your browser.
 
-### 1. Data Collection
-CHROMABURST does not collect, store, or transmit any personal information or user data. The game operates entirely within your browser environment.
+Progress Saving: Your high scores and settings are saved locally on your device.
 
-### 2. Local Storage
-All game progress, including high scores, game settings, and current session data, is saved exclusively on your local device using the browser’s local storage functionality. This data is never sent to any external server or third-party service.
-
-### 3. Third-Party Services
-CHROMABURST does not integrate with any third-party tracking, analytics, or advertising services. 
-
-### 4. Changes to this Policy
-We may update this Privacy Policy from time to time. You are advised to review this page periodically for any changes.
-
-### 5. Contact Us
-If you have any questions about this Privacy Policy, please feel free to reach out.
+Zero Tracking: No personal data is collected, stored, or shared.
